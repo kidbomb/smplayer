@@ -1,0 +1,28 @@
+{
+  "name": "smplayer",
+  "version": "1.0.0",
+  "description": "Social Media Player",
+  "main": "main.js",
+  "dependencies": {
+    "node-twitter-api": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidbomb/smplayer.git"
+  },
+  "keywords": [
+    "twitter",
+    "spotify",
+    "player"
+  ],
+  "author": "Filipe Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidbomb/smplayer/issues"
+  },
+  "homepage": "https://github.com/kidbomb/smplayer#readme"
+}
